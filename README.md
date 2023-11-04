@@ -13,7 +13,11 @@ SQL planner under 1 umbrella offer multiple solutions to
 SQL Planner can be operated from any device and anywhere and lets you work with ease.
 
 To know more about the product, please visit to official site : https://mssqlplanner.com/monitor-sql-server-and-analyze-ms-sql-server-health-from-any-device/
+
 ![alt text](https://mssqlplanner.com/wp-content/uploads/2023/04/Activity-Health-Dashboard.png)
+
+![alt text](https://mssqlplanner.com/wp-content/uploads/2023/04/SQL-Planner-Dashboard.png)
+
 # Download from Official Site
 Due to SQL Planner setup big file Size github didn't allow to upload zip folder, hence i request you to download from official site directly at this link : 
 https://www.mssqlplanner.com/wp-content/themes/astra/downloadfile/SQLPlanner_Setup.zip
