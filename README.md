@@ -3,6 +3,8 @@
 SQL Planner is a Web browser-based Microsoft SQL Server monitoring & Backup tool which helps Organizations to save millions of $ on Database administration activities. It helps understand Server performance, health, issues, root-cause with fast deep analytical reports.
 
 SQL planner under 1 umbrella offer multiple solutions to
+- Windows Server Monitoring (CPU, Memory, Storage, IIS, Storage, Services, Network Etc) 
+- Event Viewer Log Monitoring Solution
 - SQL Server Monitor, Analyze SQL server Health & find the root cause, receive alerts.
 - SQL Server Auditing.
 - Backup solution.
@@ -19,8 +21,8 @@ To know more about the product, please visit to official site : https://mssqlpla
 ![alt text](https://mssqlplanner.com/wp-content/uploads/2023/04/SQL-Planner-Dashboard.png)
 
 # Download from Official Site
-Due to SQL Planner setup big file Size github didn't allow to upload zip folder, hence i request you to download from official site directly at this link : 
-https://www.mssqlplanner.com/wp-content/themes/astra/downloadfile/SQLPlanner_Setup.zip
+ https://mssqlplanner.com/download-product/
+ 
 
 The product SQL Planner at above link is absolutely free to use by anyone's (Organization, personal, professional, academic etc..) use.
 
