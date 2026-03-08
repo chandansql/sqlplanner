@@ -1,4 +1,4 @@
-# SQLPlanner (Free Windows and SQL Monitor | Audit | Backup | Scripting Tool)
+# SQL Planner (Free Windows and SQL Monitor | Audit | Backup | Scripting Tool)
 
 SQL Planner is a Web browser-based Microsoft SQL Server monitoring & Backup tool which helps Organizations to save millions of $ on Database administration activities. It helps understand Server performance, health, issues, root-cause with fast deep analytical reports.
 
