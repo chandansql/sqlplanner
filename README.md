@@ -1,7 +1,7 @@
 # SQL Planner: All-in-One Database & Server Observability Platform (with AI Analytics optional)
 
 <p align="center">
-  <img src="https://mssqlplanner.com/wp-content/uploads/2023/04/SQL-Planner-Dashboard.png" alt="SQL Planner Dashboard" width="90%">
+  <img src="[https://mssqlplanner.com/wp-content/uploads/2023/04/SQL-Planner-Dashboard.png](https://mssqlplanner.com/wp-content/uploads/2026/11/dashboard-300x161.webp)" alt="SQL Planner Dashboard" width="90%">
 </p>
 
 <p align="center">
