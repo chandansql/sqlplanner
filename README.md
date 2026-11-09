@@ -53,7 +53,7 @@ Whether managing mission-critical on-premise instances or cloud-hosted DBs (Azur
 
 ### 1. 🔍 Unified Multi-Platform Observability
 Monitor enterprise database engines alongside operating systems and infrastructure under one pane of glass:
-- **Databases:** Microsoft SQL Server (2008 through 2022, Always On AG), PostgreSQL, Oracle, MySQL, Azure SQL Database, AWS RDS.
+- **Databases:** Microsoft SQL Server (2012 onwards, Always On AG), PostgreSQL, Oracle, MySQL, Azure SQL Database, AWS RDS.
 - **Operating Systems & Web Services:** Windows Server metrics (CPU, RAM, Disk I/O, Page Life Expectancy), Linux OS performance, IIS Web Servers, and critical Windows Services.
 - **Proactive Alerts:** Over 100+ built-in proactive threshold alerts sent via Email, Webhooks, or ITSM (ServiceNow).
 - 📺 **[Watch Observability Demo Video](https://youtu.be/cwHvKUtbFcw)**
